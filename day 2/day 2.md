@@ -13,4 +13,3 @@ switch语句
 array[index] = value    
 len返回数组长度    
 使用fmt.Println打印数组时会使用[v1, v2, ...]格式   
-# 切片
